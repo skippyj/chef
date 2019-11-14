@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/chef/omnibus
-  revision: f0e30edfaaaf47f403c441ddf6665b21a26f4546
-  branch: master
+  revision: fc2837201ff02a0637352574f6b51c661cc2ee89
+  branch: lcg/enable-hardening
   specs:
     omnibus (6.1.13)
       aws-sdk-s3 (~> 1)
@@ -18,8 +18,8 @@ GIT
 
 GIT
   remote: https://github.com/chef/omnibus-software
-  revision: b68d60eb2ea0a1498e501a00fbb4bc621df3e0e6
-  branch: lcg/windows-ruby-O3
+  revision: 1f1cec89d749593420a429baf182becf8741fe12
+  branch: master
   specs:
     omnibus-software (4.0.0)
       omnibus (>= 5.6.1)
