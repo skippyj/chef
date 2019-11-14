@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/chef/omnibus
-  revision: fc2837201ff02a0637352574f6b51c661cc2ee89
+  revision: 96d2dc42620146cba9732a281991053e5ce8d7a2
   branch: lcg/enable-hardening
   specs:
     omnibus (6.1.13)
