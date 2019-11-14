@@ -18,7 +18,7 @@ GIT
 
 GIT
   remote: https://github.com/chef/omnibus-software
-  revision: 0439a47f40ebd48ddb3a26da4b2e1ea549fbc40f
+  revision: b68d60eb2ea0a1498e501a00fbb4bc621df3e0e6
   branch: lcg/windows-ruby-O3
   specs:
     omnibus-software (4.0.0)
